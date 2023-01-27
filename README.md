@@ -12,7 +12,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
   
-  <div align="center">
+<div align="center"> 
     <sub>Made with love by <a href="https://portfolio-six-navy.vercel.app/" target="_blank">@Biancarei2007<a> ❤️</sub>  
-<img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
-
+    <img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
+</div>
+ 
