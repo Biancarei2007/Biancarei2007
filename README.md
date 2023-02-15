@@ -13,6 +13,6 @@
  </div>
   
 <div align="center"> 
-    <sub>Made with love by <a href="https://portfolio-six-navy.vercel.app/" target="_blank">@Biancarei2007<a> ❤️</sub>  
+    <sub>Made with love by <a href="https://portfolio-mauve-iota-72.vercel.app/" target="_blank">@Biancarei2007<a> ❤️</sub>  
 </div>
  
